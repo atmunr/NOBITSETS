@@ -1,0 +1,1 @@
+clear && g++ -std=c++17 -Wall $1.cpp -o $1 && ./$1 && rm $1
